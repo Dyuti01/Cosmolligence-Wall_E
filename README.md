@@ -1,6 +1,9 @@
 # Cosmolligence
 ## Team Wall_E
 
+#### Problem Statement
+- The task was to provide create boundary boxes for Damaged portion using ISDBA datas
+
 ## Datasets used during the project :- 
 
 The smaller Dataset :-
