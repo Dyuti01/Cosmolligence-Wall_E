@@ -2,7 +2,7 @@
 ## Team Wall_E
 
 #### Problem Statement
-- The task was to provide create boundary boxes for Damaged portion using ISDBA datas
+- The task was to create bounding boxes for Damaged portion using ISDBA data and to classify the severity of that damage.
 
 ## Datasets used during the project :- 
 
